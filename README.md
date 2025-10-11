@@ -29,7 +29,11 @@ Passionate about Robotics, Aerospace, and Embedded Systems. I love designing and
 - **Autonomous Systems & Sensor Fusion** – ROS2, IMU/LIDAR fusion, path planning  
 - **Space-Grade Reliability & Communication** – Fault-tolerant design, telemetry, radiation-hardened concepts
 
+---
 
+### 📫 Contact Me
+
+- LinkedIn: [Laure Rivier](www.linkedin.com/in/laure-rivier-83060a328/)
 <!--
 **Laure-R/Laure-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
