@@ -6,6 +6,7 @@ Passionate about Robotics, Aerospace, and Embedded Systems. I love designing and
 </p>
 
 ![Mars Rover ASCII](readme-edit/mars_rover_ascii.gif)
+
 ---
 
 ### 🔧 Technical Skills
