@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I'm Laure 👩‍💻
+<p align="center">
+Engineering student specializing in Microelectronics and Computer Science at École des Mines de Saint-Étienne (ISMIN).
+  
+Passionate about Robotics, Aerospace, and Embedded Systems. I love designing and integrating hardware that bridges electronics and intelligent control. My goal is to contribute to the development of autonomous robotic systems for space exploration.
+</p>
+
 
 <!--
 **Laure-R/Laure-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
