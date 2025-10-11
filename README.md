@@ -5,6 +5,7 @@ Engineering student specializing in Microelectronics and Computer Science at Éc
 Passionate about Robotics, Aerospace, and Embedded Systems. I love designing and integrating hardware that bridges electronics and intelligent control. My goal is to contribute to the development of autonomous robotic systems for space exploration.
 </p>
 
+![Mars Rover ASCII](assets/mars_rover_ascii.gif)
 ---
 
 ### 🔧 Technical Skills
