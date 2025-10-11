@@ -5,6 +5,30 @@ Engineering student specializing in Microelectronics and Computer Science at Éc
 Passionate about Robotics, Aerospace, and Embedded Systems. I love designing and integrating hardware that bridges electronics and intelligent control. My goal is to contribute to the development of autonomous robotic systems for space exploration.
 </p>
 
+---
+
+### 🔧 Technical Skills
+ - **Programming Languages:** C, C++, Python, SQL, SystemVerilog, VHDL, LaTeX <br>
+ - **Embedded Systems & Hardware:** RISC-V, STM32, FPGA design, real-time systems (FreeRTOS), PCB design (KiCad) <br>
+ - **Robotics & Control:** ROS / ROS2 (beginner) <br>
+ - **Simulation & Modeling:** MATLAB, CAD basics <br>
+ - **Software & Tools:** Git, Linux, Microsoft Office, Agile / Scrum methods <br>
+
+---
+
+### 📚 Education
+  - **École des Mines de Saint-Étienne (ISMIN)** – Master's Degree in Electronics and Computer Science Engineering, specialized in Microelectronics Design. <br>
+
+---
+
+### 🌱 Currently Learning
+
+- **Cadence Virtuoso & ASIC Design** – Analog & Mixed-Signal layout, verification (ADE-XL, DRC, LVS)  
+- **CMOS Technology** – Fundamentals and transistor-level design  
+- **Embedded Systems for Robotics** – STM32, FreeRTOS, real-time systems, CAN bus  
+- **Autonomous Systems & Sensor Fusion** – ROS2, IMU/LIDAR fusion, path planning  
+- **Space-Grade Reliability & Communication** – Fault-tolerant design, telemetry, radiation-hardened concepts
+
 
 <!--
 **Laure-R/Laure-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
