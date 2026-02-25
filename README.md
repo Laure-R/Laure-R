@@ -23,7 +23,7 @@ Passionate about Robotics, Aerospace, and Embedded Systems. I love designing and
 
 ### 🌱 Currently Learning
 
-- <!-- **Cadence Virtuoso & ASIC Design** – Analog & Mixed-Signal layout, verification (ADE-XL, DRC, LVS)  
+- <!-- **Cadence Virtuoso & ASIC Design** – Analog & Mixed-Signal layout, verification (ADE-XL, DRC, LVS)  -->
 - **CMOS Technology** – Fundamentals and transistor-level design  
 - **Embedded Systems for Robotics** – STM32, X-CUBE-AI, FreeRTOS, real-time systems, CAN bus  
 - **Autonomous Systems & Sensor Fusion** – ROS2, IMU/LIDAR fusion, path planning  
