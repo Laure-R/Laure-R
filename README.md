@@ -8,7 +8,7 @@ Passionate about Robotics, Aerospace, and Embedded Systems. I love designing and
 ---
 
 ### 🔧 Technical Skills
- - **Programming Languages:** C, C++, Python, SQL, SystemVerilog, VHDL, LaTeX <br>
+ - **Programming Languages:** C, C++, CMake, Python, SQL, SystemVerilog, VHDL, LaTeX <br>
  - **Embedded Systems & Hardware:** RISC-V, STM32, FPGA design, real-time systems (FreeRTOS), PCB design (KiCad) <br>
  - **Robotics & Control:** ROS / ROS2 (beginner) <br>
  - **Simulation & Modeling:** MATLAB, CAD basics <br>
